@@ -1,0 +1,117 @@
+.homebg {
+    background-image: url('../Images/img/homebg.jpg');
+    background-position: center;
+}
+
+.aboutmebg {
+    background-image: url('../Images/img/aboutmebg.jpg');
+    background-position: center;
+}
+
+.bold {font-weight: bold;}
+
+.h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    color: snow;
+}
+
+.h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    color: green;
+}
+
+.box1 {
+    border: solid 1px goldenrod;
+    color: green;
+    background-color: gray;
+}
+
+.listbold {
+    font-weight: bold;
+    font-style: normal;
+    font-size: 24px;
+}
+
+li {
+    font-size: 20px;
+    font-weight: normal;
+}
+.h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.formalpic {
+    height: 300px;
+}
+
+.subbody {
+    top: 1500px;
+    left: 230px;
+    color: green;
+    width: 750px;
+    
+    padding-bottom: 20px;
+}
+
+.common {
+    position: absolute;
+}
+
+.myfooter {
+    top: 3000px;
+    left: 0px;
+    right: 0px;
+    height: 100px;
+    color: grey;
+    position: absolute;
+}
+
+.myfooter2 {
+    top: 837px;
+    left: 0px;
+    right: 0px;
+    height: 100px;
+    position: absolute
+}
+.iframe-container {
+    position: absolute;
+    padding-bottom: 56.25%;
+    height: 0;
+    margin-left: auto;
+    margin-right: auto;
+    left:35%;
+}
+
+.leftmenu {
+    top: 82px;
+    left: 5px;
+    width: 50px;
+    font-size: 18px;
+}
+
+.mycta {
+    position: absolute;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    width: 1000px; 
+    left: 23%;
+    top: 300px;
+    background-color: maroon;
+    opacity: 75%;
+}
+
+.interest {
+    color: green;
+    top: 2500px;
+    position: absolute;
+    left: 45%;
+}
+
+.intpic {
+    top: 2550px;
+    left: 18%;
+    position: absolute;
+}

@@ -1,0 +1,48 @@
+.h1 {
+    font-size: 30px;
+    text-transform: uppercase;
+
+}
+
+.h2 {
+    text-align: center;
+    font-size: large;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.bg {
+    background-image: url(../Images/img/bg3.jpg);
+    background-position: center;
+}
+
+.body {
+    color: black;
+}
+
+.common {
+    position: absolute;
+}
+
+.header {
+    top: 60px;
+    left: 0px;
+    right: 0px;
+    height: 100px;
+    background-color: grey;
+    opacity: 90%;
+}
+
+.center {
+    text-align: center;
+}
+
+.footer {
+    top: 2425px;
+    right: 0px;
+    left: 0px;
+    height: 100px;
+    background-color: grey;
+    opacity: 90%;
+}
